@@ -1,3 +1,4 @@
-# omnistack10
+# Omnistack10
 
-Semana OmniStack Rocketseat
+Projeto resultado da Semana Omnistack #10
+
